@@ -22,3 +22,13 @@ main.zip
 plot/*.LOG
 plot/ocrd*
 **/.DS_Store
+GT*
+data/*-ground-truth/*/*.box
+data/*-ground-truth/*/*.lstmf
+data/*/checkpoints
+data/*/tessdata_best
+data/*/tessdata_fast
+del.sh
+plot/*.LOG
+plot/*.log
+*.log
